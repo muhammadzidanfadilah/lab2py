@@ -15,7 +15,7 @@
 ####   - Mencetak nilai variabel a dan b 
 ####   - Mencetak hasil penjumlahan a+b
 
-![Gambar1](gambar/gambar3.png)
+![Gambar1](gambar/gambar3.jpeg)
 
 ![Gambar1](gambar/gambar2.jpeg)
 
