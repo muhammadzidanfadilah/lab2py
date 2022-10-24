@@ -36,7 +36,7 @@
 #### - Membuat laman kerja baru dengan menekan (+) atau Create New Project
 
 ![Gambar1](gambar/gambar7.jpeg)
-
+ 
 ## Virtual Environment
 
 ![Gambar1](gambar/gambar8.jpeg)
