@@ -28,7 +28,7 @@
 ![Gambar1](gambar/gambar4.jpeg)
 
 ![Gambar1](gambar/gambar5.jpeg)
- 
+
 ## Langkah-Langkah Mengggunakan PyCharm
 
 #### - Jika belum terinstal, silahkan download di https://www.jetbrains.com/pycharm/
