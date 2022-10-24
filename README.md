@@ -27,7 +27,7 @@
 
 ![Gambar1](gambar/gambar4.jpeg)
 
-![Gambar1](gambar/gambar5.jpeg)
+![Gambar1](gambar/gambar11.jpeg)
  
 ## Langkah-Langkah Mengggunakan PyCharm
 
